@@ -2,7 +2,7 @@
 
 ## Description
 
-A python library to ease the creation of [Kirigami](https://en.wikipedia.org/wiki/Kirigami).
+A python library to ease the creation of [Kirigami](https://en.wikipedia.org/wiki/Kirigami) based on some kind of voxel.
 
 ## System Requirements
 
