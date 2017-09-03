@@ -1,5 +1,9 @@
 """
 Copyright (c) 2017 Loïc Fejoz
+This file is provided under the MIT License.
+
+author(s):
+* Loïc Fejoz <loic@fejoz.net>
 
 A library to create square/voxel based kirigami.
 Kirigami is the art of folding and cutting paper.
